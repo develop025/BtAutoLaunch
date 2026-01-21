@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BtAutoLaunch",
+  "description": "A high-precision Android system utility for automating car media playback via Bluetooth with deep vendor-specific background stability management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
